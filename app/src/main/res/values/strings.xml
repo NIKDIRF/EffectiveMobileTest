@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EffectiveMobileTest</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_text">Избранное</string>
+    <string name="dev_in_progress">Dev in progress</string>
+    <string name="tools_vacancy_number">0 вакансий</string>
+    <string name="tools_top_vacancy_number">145 вакансий</string>
+    <string name="tools_correspondence_text">По соответствию</string>
+    <string name="near_vacancies_text">Вакансии рядом с вами</string>
+    <string name="up_text">Поднять</string>
+    <string name="vacancy_for_you_text">Вакансии для вас</string>
+    <string name="search_hint_text">Должность, ключевые слова</string>
+    <string name="tools_looking_number_text">Сейчас просматриваeт 1 человек</string>
+    <string name="tools_vacancy_title_text">UI/UX Designer</string>
+    <string name="tools_town_text">Минкс</string>
+    <string name="tools_company_name">Мобирикс</string>
+    <string name="tools_exp_text">Опыт от 1 года до 3 лет</string>
+    <string name="tools_publish_date_text">Опубликовано 6 марта</string>
+    <string name="reply_button_text">Откликнуться</string>
+    <string name="top_static_panel_hint_text">Должность по подходящим вакансиям</string>
+    <string name="menu_search_text">Поиск</string>
+    <string name="menu_favorite_text">Избранное</string>
+    <string name="menu_reply_text">Отклики</string>
+    <string name="menu_message_text">Сообщения</string>
+    <string name="menu_profile_text">Профиль</string>
+</resources>

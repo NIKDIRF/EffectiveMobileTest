@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EffectiveMobileTest" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/grey_2</item>
+        <item name="colorPrimaryContainer">@color/grey_2</item>
+        <item name="colorOnPrimary">@color/grey_4</item>
+        <item name="android:statusBarColor">@color/shadows</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="BlueButtonStyle" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/blue</item>
+    </style>
+
+    <style name="GreenButtonStyle" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/green</item>
+    </style>
+
+    <style name="Theme.EffectiveMobileTest" parent="Base.Theme.EffectiveMobileTest" />
+</resources>

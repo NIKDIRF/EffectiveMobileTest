@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button android:id="@+id/button_more"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:layout_marginVertical="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="16dp"
+    android:background="@drawable/bg_button_more"
+    android:text="Ещё 0 вакансий"
+    android:textAppearance="@style/TextStyle.ButtonText1"
+    android:textColor="@color/white"
+    style="@style/BlueButtonStyle"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
